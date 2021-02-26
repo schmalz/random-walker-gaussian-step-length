@@ -1,0 +1,1 @@
+A simple random walker that determines its step using Gaussian distribution.
