@@ -1,1 +1,3 @@
-A simple random walker that determines its step using Gaussian distribution.
+## Autumn Walk
+
+A few random walkers in autumnal colours from the Solarized palette.
